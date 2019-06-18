@@ -1,5 +1,5 @@
 ---
-profile::pasture::app::default_message: "Welcome to Beauvine!"
+profile::pasture::app::default_message: "Hello control repository!"
 profile::base::dev_users::users:
   - title: 'bessie'
     comment: 'Bessie Johnson'
