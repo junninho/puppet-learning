@@ -1,2 +1,2 @@
-mod "puppetlabs/postgresql", '5.12.1'
+mod "puppetlabs/postgresql", '6.1.0'
 
