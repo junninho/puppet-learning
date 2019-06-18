@@ -1,0 +1,2 @@
+mod "puppetlabs/postgresql", '5.12.1'
+
